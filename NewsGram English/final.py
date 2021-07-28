@@ -13,7 +13,7 @@ import re
 import html
 
 header = {
-    'X-RMAuth': 'KlCym4YdO1BQrvAWjNkuHBPhaw5OxkS4wENNlQbaKCEhqOpxyewBWVzV4479IpDm', 
+    'X-RMAuth': '${XAUTH_KEY_FOR_NEWSGRAM_ENGLISH}', 
     'User-Agent': 'PostmanRuntime/7.28.0', 
     'Accept': '*/*', 
     'Cache-Control': 'no-cache', 
