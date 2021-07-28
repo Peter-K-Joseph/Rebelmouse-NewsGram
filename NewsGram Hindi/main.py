@@ -17,11 +17,10 @@ from colorama import Fore, Back, Style
 
 
 header = {
-    'X-RMAuth': 's9RD97sAtBlqdJtEGewCVITuC6lYUY06bbHL0o9pfkYeoJlPe6WdOA6QUeMS5LEl ', 
+    'X-RMAuth': '${XAUTH_KEY_FOR_NEWSGRAM_HINDI}', 
     'User-Agent': 'PostmanRuntime/7.28.2', 
     'Accept': '*/*', 
     'Cache-Control': 'no-cache', 
-    'Postman-Token': '3381a69f-f418-41b3-89a4-33b1106fd976', 
     'Host': 'hindi-newsgram.rebelmouse.dev', 
     'Accept-Encoding': 'gzip%2C deflate%2C br', 
     'Connection': 'keep-alive'
