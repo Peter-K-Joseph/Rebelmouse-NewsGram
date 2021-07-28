@@ -18,7 +18,7 @@ from reportlab.graphics import renderPDF, renderPM
 Image.MAX_IMAGE_PIXELS = None
 
 header = {
-    'X-RMAuth': 'KlCym4YdO1BQrvAWjNkuHBPhaw5OxkS4wENNlQbaKCEhqOpxyewBWVzV4479IpDm',
+    'X-RMAuth': '${XAUTH_KEY_FOR_NEWSGRAM_ENGLISH}',
     'User-Agent': 'PostmanRuntime/7.28.0',
     'Accept': '*/*',
     'Cache-Control': 'no-cache',
@@ -30,7 +30,7 @@ header = {
 }
 
 header_wp = {
-    'X-RMAuth': 'KlCym4YdO1BQrvAWjNkuHBPhaw5OxkS4wENNlQbaKCEhqOpxyewBWVzV4479IpDm',
+    'X-RMAuth': '${XAUTH_KEY_FOR_NEWSGRAM_ENGLISH}',
     'User-Agent': 'PostmanRuntime/7.28.0',
     'Accept': '*/*',
     'Cache-Control': 'no-cache',
