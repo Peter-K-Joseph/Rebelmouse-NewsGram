@@ -1,0 +1,54 @@
+{
+    "code": 0,
+    "response": [{
+            "date_added": "2016-01-28T01:54:31",
+            "id": 1,
+            "name": "Business"
+        },
+        {
+            "date_added": "2016-01-28T01:54:31",
+            "id": 2,
+            "name": "Celebrity"
+        },
+        {
+            "date_added": "2016-01-28T01:54:31",
+            "id": 3,
+            "name": "Culture"
+        },
+        {
+            "date_added": "2016-01-28T01:54:31",
+            "id": 4,
+            "name": "Entertainment"
+        },
+        {
+            "date_added": "2016-01-28T01:54:31",
+            "id": 5,
+            "name": "Games"
+        },
+        {
+            "date_added": "2016-01-28T01:54:31",
+            "id": 6,
+            "name": "Living"
+        },
+        {
+            "date_added": "2016-01-28T01:54:31",
+            "id": 7,
+            "name": "News"
+        },
+        {
+            "date_added": "2016-01-28T01:54:31",
+            "id": 8,
+            "name": "Tech"
+        },
+        {
+            "date_added": "2016-01-28T01:54:31",
+            "id": 9,
+            "name": "Style"
+        },
+        {
+            "date_added": "2016-01-28T01:54:31",
+            "id": 10,
+            "name": "Sports"
+        }
+    ]
+}
